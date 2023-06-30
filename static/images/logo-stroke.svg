@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1403.1714"
+   height="320.00897"
+   viewBox="0 0 1403.1713 320.00897"
+   version="1.1"
+   xml:space="preserve"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   id="svg201"
+   sodipodi:docname="logo-stroke.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs205" /><sodipodi:namedview
+   id="namedview203"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="0.85198556"
+   inkscape:cx="528.76483"
+   inkscape:cy="143.19492"
+   inkscape:window-width="1728"
+   inkscape:window-height="698"
+   inkscape:window-x="0"
+   inkscape:window-y="38"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Artboard1" />
+    <g
+   id="Artboard1"
+   transform="translate(-1313.3099,-1171.6018)"
+   inkscape:label="Artboard1">
+        
+        <g
+   transform="matrix(0.820647,0,0,0.683987,747.554,386.486)"
+   id="g188"
+   style="stroke:#000000;stroke-opacity:1;stroke-width:5.40437738;stroke-dasharray:none">
+            <text
+   x="714.48602"
+   y="1391.52"
+   style="font-style:italic;font-weight:700;font-size:332.885px;font-family:HelveticaNeue-BoldItalic, 'Helvetica Neue';stroke:#ffffff;stroke-opacity:1;stroke-width:5.40437738;stroke-dasharray:none;fill:none"
+   id="text186">polyset</text>
+        </g>
+        <g
+   transform="matrix(0.820647,0,0,0.685545,1704.5425,491.866)"
+   id="g194"
+   style="stroke:#000000;stroke-width:5.39823268;stroke-dasharray:none;fill:none">
+            <text
+   x="714.48602"
+   y="1391.52"
+   style="font-style:italic;font-weight:700;font-size:332.885px;font-family:HelveticaNeue-BoldItalic, 'Helvetica Neue';stroke:#ffffff;stroke-width:5.39823268;stroke-dasharray:none;fill:none"
+   id="text192">xyz</text>
+        </g>
+        <g
+   transform="matrix(1.41628,0,0,1.19092,-4402.2412,-3554.48)"
+   id="g198"
+   style="stroke:#000000;stroke-width:3.11768276;stroke-dasharray:none;fill:none">
+            <path
+   d="m 4730.88,4009.6 h 10.09 l -39.45,189.46 h -10.25 z"
+   id="path196"
+   style="stroke:#ffffff;stroke-width:3.11768276;stroke-dasharray:none;fill:none" />
+        </g>
+    </g>
+</svg>
