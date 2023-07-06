@@ -110,13 +110,16 @@
 	>
   <Collider shape={"cuboid"} restitution={1} args={[0.125, 0.125, 0.125]} />
 
-      <T.Mesh
+      <!-- <T.Mesh
         castShadow
         receiveShadow
         geometry= {new BoxGeometry(radius, radius, radius)}
       >
         <T.MeshPhongMaterial color={active_color} />
-      </T.Mesh>
+      </T.Mesh> -->
+	  <T.Line {geometry}>
+		<T.LineBasicMaterial color={active_color} />
+	  </T.Line>
       <ShadowParticle {active_color} />
   </RigidBody>
 </T.Group>
